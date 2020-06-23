@@ -1,16 +1,5 @@
 /*  HEADER STYLES  */
-.hide a{
-  visibility: hidden;
-}
-.author span{
-  visibility: visible;
-}
-span{
-  visibility: hidden;
-}
-script {
-  visibility: hidden;
-}
+
 .student-name, .back-to-top{
   font-size: 0.8em;
 }
