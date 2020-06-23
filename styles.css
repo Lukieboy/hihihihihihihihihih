@@ -2,7 +2,9 @@
 .hide a{
   visibility: hidden;
 }
-
+.author span{
+  visibility: visible;
+}
 span{
   visibility: hidden;
 }
